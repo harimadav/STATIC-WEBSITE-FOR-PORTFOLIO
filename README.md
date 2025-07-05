@@ -1,4 +1,12 @@
-Personal Portfolio – S HARI SHANKAR
+STATIC WEBSITE FOR PORTFOLIO
+
+COMPANY: CODETECH IT SOLUTIONS
+
+NAME: S HARI SHANKAR
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH
 
 This is my personal portfolio website built as part of my internship at CODTECH IT SOLUTIONS. It showcases my skills, projects, education, and contact information in a clean, responsive, and stylish layout.
 
@@ -22,7 +30,14 @@ This is my personal portfolio website built as part of my internship at CODTECH 
 - CSS3  
 - JavaScript
 
+#Screenshots
 
+(homepage.jpg)
+(aboutme.jpg)
+(education.jpg)
+(skills.jpg)
+(projects.jpg)
+(contact.jpg)
 
 📬 Contact
 
