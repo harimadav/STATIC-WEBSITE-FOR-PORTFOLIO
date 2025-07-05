@@ -33,10 +33,15 @@ This is my personal portfolio website built as part of my internship at CODTECH 
 #Screenshots
 
 (homepage.jpg)
+
 (aboutme.jpg)
+
 (education.jpg)
+
 (skills.jpg)
+
 (projects.jpg)
+
 (contact.jpg)
 
 📬 Contact
