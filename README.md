@@ -30,19 +30,26 @@ This is my personal portfolio website built as part of my internship at CODTECH 
 - CSS3  
 - JavaScript
 
-#Screenshots
+## 📸 Screenshots
 
-(homepage.jpg)
+### 🏠 Home Page
+![Home Page](homepage.jpg)
 
-(aboutme.jpg)
+### 👤 About Me
+![About Me](aboutme.jpg)
 
-(education.jpg)
+### 🎓 Education
+![Education](education.jpg)
 
-(skills.jpg)
+### 🛠 Skills
+![Skills](skills.jpg)
 
-(projects.jpg)
+### 📁 Projects
+![Projects](projects.jpg)
 
-(contact.jpg)
+### 📞 Contact
+![Contact](contact.jpg)
+
 
 📬 Contact
 
