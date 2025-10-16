@@ -1,18 +1,6 @@
 ## STATIC WEBSITE FOR PORTFOLIO
 
-*COMPANY* : CODETECH IT SOLUTIONS
-
-*NAME* : S HARI SHANKAR
-
-*INTERN ID* : CT04DH297
-
-*DOMAIN* : SOFTWARE DEVELOPMENT
-
-*DURATION* : 4 WEEKS
-
-*MENTOR* : NEELA SANTHOSH
-
-This is my personal portfolio website built as part of my internship at CODTECH IT SOLUTIONS. It showcases my skills, projects, education, and contact information in a clean, responsive, and stylish layout.
+This is my personal portfolio website. It showcases my skills, projects, education, and contact information in a clean, responsive, and stylish layout.
 
 ## 🔗 Live Demo
 
